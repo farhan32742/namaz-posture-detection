@@ -65,6 +65,6 @@ This project can be used in:
 ## Contact
 For any queries or contributions:
 - **Name**: Farhan Fayaz
-- **Email**: [farhanfayaz1987@gmail.com]
+- **Email**: farhanfayaz1987@gmail.com
 
 
